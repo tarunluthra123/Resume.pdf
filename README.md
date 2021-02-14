@@ -1,6 +1,6 @@
 ## Resume PDF
 
-This repository contains my Resume PDF File which is hosted at [tarunluthra.me/Resume.pdf](https://tarunluthra.me/Resume.pdf/).
+This repository contains my Resume PDF File which is hosted at [resume.tarunluthra.me/Resume.pdf](https://resume.tarunluthra.me).
 
 Also checkout my portfolio website in reference - [tarunluthra.me](https://tarunluthra.me/).
 
